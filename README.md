@@ -1,5 +1,5 @@
 - 🚀 Hallo! I’m Diego!
-- 👀 I’m interested in being a Full Stack Developer.
+- 👀 I’m working in being a Full Stack Developer.
 - 📚 I’m currently still learning some hacks in JavaScript.
 - 💻 I’m looking to collaborate on Front-end projects.
 
