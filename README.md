@@ -7,7 +7,7 @@ There's a lot of things that I wish to do, but, less is better sometimes, that's
 - [Colors Palette](): _under development..._
 - [Recipe App](): _under development..._
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomge&layout=compact)](https://github.com/diegomge/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diegomge&layout=compact)](https://github.com/diegomge/github-readme-stats)
 
 ### Languages and Tools
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
