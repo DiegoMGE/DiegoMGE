@@ -1,7 +1,7 @@
 # Diego Orellana 🚀
 Hey there! I'm still a Front-end Dev. Jr., but I'm working in being a Full Stack Developer, so I can create software that helps millions just with a couple clicks! 💻
 
-There's a lot of things that I wish to do, but, less is better sometimes. Right now I'm working with 3 apps using: HTML, CSS, JavaScript:
+There's a lot of things that I wish to do, but, less is better sometimes. Right now I'm working with 3 apps using: HTML, CSS and JavaScript:
 
 - [Password Generator 🔑](): _under development..._
 - [Colors Palette 🎨](): _under development..._
