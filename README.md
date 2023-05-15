@@ -1,17 +1,21 @@
 # Diego Orellana 🚀
-Hey there! I'm working in being a Full Stack Developer, so I can create software that helps millions just with a couple clicks! 💻
 
-There's a lot of things that I wish to do, but, less is better sometimes. Right now I'm working with 3 apps using: HTML, CSS and JavaScript:
+Hallo! 😎
 
-- [Password Generator 🔑](): _under development..._
-- [Colors Palette 🎨](): _under development..._
-- [Recipe App 🥪](): _under development..._
+I'm working in being a Full Stack Developer, so I can create software that helps millions just with a couple clicks! I've been working with Web Technologies for almost a decade. 💻
 
-And yes, later gonna implement them with React.js and more beauty (style hacks).
+There's a lot of things that I wish to do, but, less is better sometimes. Right now I'm working with 3 apps using HTML, CSS / Bootstrap, JavaScript:
+
+- [Password Generator 🔑]().
+- [Colors Palette 🎨]().
+- [Recipe App 🥪]().
+
+And yes, later gonna implement them with **React** and more beauty (style hacks).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomge&layout=compact)](https://github.com/diegomge/github-readme-stats)
 
 ### Languages and Tools
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Bootstrap" width="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px" />
