@@ -1,16 +1,10 @@
 # Diego Orellana 🚀
 
-Hallo! 😎
+I'm a frontend developer, I enjoy minimalist designs that users can enjoy so much that they never want to leave. My current main goal is to become a `Full Stack Developer`.
 
-I'm working in being a Full Stack Developer, so I can create software that helps millions just with a couple clicks! I've been working with Web Technologies for almost a decade. 💻
+- _There's a lot of things that I wish to do, but, less is better sometimes._
 
-There's a lot of things that I wish to do, but, less is better sometimes. Right now I'm working with 3 apps using HTML, CSS / Bootstrap, JavaScript:
-
-- [Password Generator 🔑]().
-- [Colors Palette 🎨]().
-- [Recipe App 🥪]().
-
-And yes, later gonna implement them with **React** and more beauty (style hacks).
+I've been working with Web Technologies for _almost a decade_. 💻
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomge&layout=compact)](https://github.com/diegomge/github-readme-stats)
 
